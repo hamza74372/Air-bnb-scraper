@@ -1,0 +1,4 @@
+playwright==1.36.0
+pandas==2.2.0
+tqdm==4.66.1
+python-dotenv==1.0.0
